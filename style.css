@@ -17,6 +17,16 @@ body {
     justify-content: space-between;
 }
 
+#menuJauns_kopums {
+    display: flex;
+    flex-direction: column;
+}
+
+#menuJauns_pozicija{
+    display: flex;
+    justify-content: space-between;
+}
+
 #menuSaraksts{
     display: flex;
     align-items: flex-end;
